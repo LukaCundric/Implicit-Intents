@@ -23,22 +23,22 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="https://developer.android.com"
-            android:inputType="textUri" />
+            android:hint="@string/website_hint"
+            android:inputType="textUri"/>
 
         <Button
             android:id="@+id/btnWebsite"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="openWebsite"
-            android:text="Open Website" />
+            android:text="@string/open_website" />
 
         <EditText
             android:id="@+id/etLocation"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="School Centre Nova Gorica"
+            android:hint="@string/location_hint"
             android:inputType="text" />
 
         <Button
@@ -46,14 +46,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="openLocation"
-            android:text="Open Location" />
+            android:text="@string/open_location" />
 
         <EditText
             android:id="@+id/etText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="Vnesi besedilo za deljenje"
+            android:hint="@string/text_hint"
             android:inputType="text" />
 
         <Button
@@ -61,7 +61,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="shareText"
-            android:text="Share This Text" />
+            android:text="@string/share_text" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
