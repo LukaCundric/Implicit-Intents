@@ -31,7 +31,18 @@ public class MainActivity extends AppCompatActivity {
     }
     public void openWebsite(View view) {
 
-        String website = etWebsite.getText().toString();
+        String website = etWebsite.getText().toString().trim();
+
+        if (website.isEmpty()) {
+            etWebsite.setError("Enter website!");
+            return;
+        }
+
+        if (!website.startsWith("http://") &&
+                !website.startsWith("https://")) {
+
+            website = "https://" + website;
+        }
 
         Uri webpage = Uri.parse(website);
 
