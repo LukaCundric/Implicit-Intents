@@ -48,3 +48,7 @@ Aplikacija omogoča odpiranje spletnih strani, iskanje lokacij na zemljevidu in 
 
 Spodaj so prikazani posnetki zaslona aplikacije in njenih posameznih funkcionalnosti.
 
+## Cilj naloge
+
+Cilj naloge je bil izdelati Android aplikacijo, ki uporablja implicitne namene za izvajanje različnih dejanj zunaj same aplikacije. Pri tem sem uporabil `Intent.ACTION_VIEW` za odpiranje spletnih strani in lokacij na zemljevidu ter `ShareCompat.IntentBuilder` za deljenje besedila z drugimi aplikacijami. Spoznal sem tudi uporabo URI-jev, metode `resolveActivity()` in preverjanje razpoložljivosti aplikacij za izvedbo posameznih dejanj.
+
