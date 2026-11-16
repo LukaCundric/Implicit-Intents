@@ -52,3 +52,18 @@ Spodaj so prikazani posnetki zaslona aplikacije in njenih posameznih funkcionaln
 
 Cilj naloge je bil izdelati Android aplikacijo, ki uporablja implicitne namene za izvajanje različnih dejanj zunaj same aplikacije. Pri tem sem uporabil `Intent.ACTION_VIEW` za odpiranje spletnih strani in lokacij na zemljevidu ter `ShareCompat.IntentBuilder` za deljenje besedila z drugimi aplikacijami. Spoznal sem tudi uporabo URI-jev, metode `resolveActivity()` in preverjanje razpoložljivosti aplikacij za izvedbo posameznih dejanj.
 
+## Kaj sem se naučil?
+
+- Uporabljati implicitne namene (Implicit Intents) v Android aplikacijah.
+- Uporabljati razred Intent za povezovanje aplikacije z drugimi aplikacijami.
+- Odpirati spletne strani s pomočjo `Intent.ACTION_VIEW`.
+- Odpirati lokacije na zemljevidu z uporabo URI-ja `geo:0,0?q=`.
+- Uporabljati metodi `Uri.parse()` in `Uri.encode()`.
+- Preverjati razpoložljivost aplikacij z metodo `resolveActivity()`.
+- Deliti besedilo z uporabo razreda `ShareCompat.IntentBuilder`.
+- Uporabljati `findViewById()` za povezovanje elementov uporabniškega vmesnika z Java kodo.
+- Ustvarjati uporabniške vmesnike s pomočjo XML in gradnikov `EditText` ter `Button`.
+
+## Avtor
+
+Luka Cundrič
