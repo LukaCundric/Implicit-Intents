@@ -7,9 +7,11 @@ import android.view.View;
 import android.widget.EditText;
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.app.ShareCompat;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+import androidx.core.app.ShareCompat;
 
 public class MainActivity extends AppCompatActivity {
     private EditText etWebsite;
@@ -51,5 +53,25 @@ public class MainActivity extends AppCompatActivity {
         if (intent.resolveActivity(getPackageManager()) != null) {
             startActivity(intent);
         }
+    }
+
+    public void openLocation(View view) {
+        String location = etLocation.getText().toString();
+        Uri addressUri = Uri.parse("geo:0,0?q=" + Uri.encode(location));
+        Intent intent = new Intent(Intent.ACTION_VIEW, addressUri);
+        if (intent.resolveActivity(getPackageManager()) != null) {
+            startActivity(intent);
+        }
+    }
+
+    public void shareText(View view) {
+        String text = etText.getText().toString();
+
+        ShareCompat.IntentBuilder
+                .from(this)
+                .setType("text/plain")
+                .setChooserTitle("Share text")
+                .setText(text)
+                .startChooser();
     }
 }
