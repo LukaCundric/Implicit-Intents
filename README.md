@@ -65,6 +65,14 @@ Spodaj so prikazani posnetki zaslona aplikacije in njenih posameznih funkcionaln
     <img width="472" height="986" alt="Implicit_Intens4" src="https://github.com/user-attachments/assets/97192389-b6d2-41ee-a360-723313a85c92" />
       <br><b>School Centre Nova Gorica</b>
     </td>
+    <td align="center"> 
+<img width="470" height="982" alt="Implicit_Intens5" src="https://github.com/user-attachments/assets/285614f0-b019-4970-a746-fcb0547527c0" />
+      <br><b>SHARE THIS TEXT</b>
+    </td>
+      <td align="center">
+    <img width="475" height="977" alt="Implicit_Intens6" src="https://github.com/user-attachments/assets/cafc7272-36a4-4a5a-a738-7d9de424d8ce" />
+      <br><b>Shared Text</b>
+    </td>
   </tr>
 </table>
 
