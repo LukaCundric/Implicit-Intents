@@ -62,8 +62,8 @@ Spodaj so prikazani posnetki zaslona aplikacije in njenih posameznih funkcionaln
       <br><b>OPEN LOCATION</b>
     </td>
         <td align="center">
-    <img width="477" height="982" alt="Implicit_Intens3" src="https://github.com/user-attachments/assets/546dc1be-5fb3-4a5c-9710-55e76db325e6" />
-      <br><b>OPEN LOCATION</b>
+    <img width="472" height="986" alt="Implicit_Intens4" src="https://github.com/user-attachments/assets/97192389-b6d2-41ee-a360-723313a85c92" />
+      <br><b>School Centre Nova Gorica</b>
     </td>
   </tr>
 </table>
