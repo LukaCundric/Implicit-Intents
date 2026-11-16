@@ -1,4 +1,3 @@
-
 # Implicit Intents
 
 ## Opis
@@ -51,16 +50,20 @@ Spodaj so prikazani posnetki zaslona aplikacije in njenih posameznih funkcionaln
 <table>
   <tr>
     <td align="center">
-        
-      <br><b>Slika3</b>
+        <img width="473" height="981" alt="Implicit_Intens1" src="https://github.com/user-attachments/assets/7b398533-9478-4f69-9eb7-5308eb089917" />
+      <br><b>OPEN WEBSITE</b>
     </td>
     <td align="center">
-      
-      <br><b>slika2</b>
+      <img width="471" height="977" alt="Implicit_intens2" src="https://github.com/user-attachments/assets/af8c87bd-4b63-4d66-953c-17fb321f7d55" />
+      <br><b>https://google.com</b>
     </td>
     <td align="center">
-    
-      <br><b>Slika1</b>
+    <img width="477" height="982" alt="Implicit_Intens3" src="https://github.com/user-attachments/assets/546dc1be-5fb3-4a5c-9710-55e76db325e6" />
+      <br><b>OPEN LOCATION</b>
+    </td>
+        <td align="center">
+    <img width="477" height="982" alt="Implicit_Intens3" src="https://github.com/user-attachments/assets/546dc1be-5fb3-4a5c-9710-55e76db325e6" />
+      <br><b>OPEN LOCATION</b>
     </td>
   </tr>
 </table>
