@@ -62,6 +62,20 @@
             android:layout_height="wrap_content"
             android:onClick="shareText"
             android:text="@string/share_text" />
+
+        <EditText
+            android:id="@+id/etPhone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter phone number"
+            android:inputType="phone" />
+
+        <Button
+            android:id="@+id/btnCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="callPhone"
+            android:text="CALL" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
