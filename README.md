@@ -37,9 +37,9 @@ Aplikacija omogoča odpiranje spletnih strani, iskanje lokacij na zemljevidu in 
 1. Zaženi aplikacijo.
 2. V prvo vnosno polje vnesi spletni naslov, na primer `https://www.youtube.com`.
 3. Klikni gumb **OPEN WEBSITE** za odpiranje spletne strani v brskalniku.
-4. V drugo vnosno polje vnesi lokacijo, na primer `Nova Gorica, Slovenija`.
+4. V drugo vnosno polje vnesi lokacijo, na primer `School Centre Nova Gorica`.
 5. Klikni gumb **OPEN LOCATION** za prikaz lokacije v aplikaciji za zemljevide.
-6. V tretje vnosno polje vnesi poljubno besedilo, ki ga želiš deliti.
+6. V tretje vnosno polje vnesi poljubno besedilo, ki ga želiš deliti, npr. `Sharing text`.
 7. Klikni gumb **SHARE THIS TEXT**.
 8. Izberi aplikacijo, prek katere želiš deliti besedilo.
 
