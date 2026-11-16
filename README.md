@@ -81,6 +81,17 @@ Spodaj so prikazani posnetki zaslona aplikacije in njenih posameznih funkcionaln
       <br><b>Sharing Text</b>
     </td>
   </tr>
+
+   <tr>
+    <td align="center" width="50%">
+<img width="220" alt="Implicit_Intens7" src="https://github.com/user-attachments/assets/3ea48bdc-0daf-4106-b3a2-379000ecdc99" />
+      <br><b>CALL</b>
+    </td>
+    <td align="center" width="50%">
+      <img width="200" alt="Implicit_Intens8" src="https://github.com/user-attachments/assets/a028bff0-62ca-446a-b634-339f6007c323" />
+      <br><b>Call</b>
+    </td>
+  </tr>
 </table>
 
 
