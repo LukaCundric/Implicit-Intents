@@ -78,7 +78,7 @@ Spodaj so prikazani posnetki zaslona aplikacije in njenih posameznih funkcionaln
     </td>
     <td align="center" width="50%">
       <img width="220" alt="Implicit_Intents6" src="https://github.com/user-attachments/assets/cafc7272-36a4-4a5a-a738-7d9de424d8ce" />
-      <br><b>Shared Text</b>
+      <br><b>Sharing Text</b>
     </td>
   </tr>
 </table>
